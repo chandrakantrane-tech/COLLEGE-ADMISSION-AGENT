@@ -1,0 +1,6 @@
+streamlit==1.66.1
+python-dotenv==1.2.4
+groq==0.18.0
+chromadb
+sentence-transformers
+pymupdf
